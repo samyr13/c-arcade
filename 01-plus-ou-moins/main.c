@@ -19,6 +19,7 @@ int main() {
     int proposition
     int essais = 0; 
     int resultat;
+<<<<<<< HEAD
 
 
     do {
@@ -36,6 +37,8 @@ int main() {
         }
     } 
     while (resultat != 0);
+=======
+>>>>>>> bc8f70a (Création du squelette du jeu et des fonctions de base)
     
     return 0;
 }
