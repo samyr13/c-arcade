@@ -1,4 +1,4 @@
-## EXERCICE 1 
+### EXERCICE1 
 
 #include <iostream>
 #include <string>
