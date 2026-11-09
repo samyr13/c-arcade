@@ -8,8 +8,8 @@
    \           /    \           /      /  /|\  \      
 ```
 
-## Auteur : 
-Samy RACHAD
+                     ## Auteur : 
+                     Samy RACHAD
 
 ## Jeux :
 -  **Plus ou moins** : L'ordinateur choisit un nombre secret entre 1 et 100. Tu proposes des nombres, il répond « plus grand »
